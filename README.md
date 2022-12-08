@@ -1,0 +1,6 @@
+ - @ThePearlite
+ - I’m interested in game design and development
+ - I’m currently learning C# and unity as a hobby
+ - I'm currently developing a Jet fighter game in unity - @AirSwarmGame in instagram and https://www.youtube.com/@PearliteisHere
+ - I’m currently collaborating with Physics Ace - https://github.com/SovietLunox/Physics-ace
+ - You can find my scratch profile here - https://scratch.mit.edu/users/Pearlite/
